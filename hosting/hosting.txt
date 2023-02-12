@@ -1,0 +1,21 @@
+ Bonus challenge - 2 
+
+ Hosting Railway server 
+
+
+These are step to follow and your app is host ...
+1. go to console to write a -->  git status
+
+2. after the status to  to write a --> git init
+
+3. after the init to  to write a --> git add
+
+4. after the add to  to write a --> git commit ~m "host api live" 
+
+5. then to upload a github your application 
+  
+6. open the railway.application sign in the github profile and choose application you are made ..✌️✌️
+
+
+finally your application is host
+
