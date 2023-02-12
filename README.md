@@ -24,6 +24,7 @@
 
 
 ## About To Me
-- Name : Satyam Choudhary
-- Branch : Information Technology 
+- Name :  Anusha PateL
+- Branch : Computer science and Engineering  
+- DOB : 15-11-2002
 - Year  : 2024
